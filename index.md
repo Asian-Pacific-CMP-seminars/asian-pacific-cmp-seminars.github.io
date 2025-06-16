@@ -1,5 +1,3 @@
-# Asian-Pacific Condensed Matter Physics (CMP) Seminars
-
 ## About
 
 The Asian-Pacific Condensed Matter Physics Seminars (AP-CMP) is a series of online seminars that brings together researchers from across the Asia-Pacific region and beyond. Our goal is to foster scientific exchange and collaboration in the field of condensed matter physics.
@@ -19,24 +17,14 @@ Please join the mailing list to receive the meeting information.
 
 ## Contact
 
-For any inquiries, please contact us through the Google Groups mailing list.
+For any inquiries, please contact us through the admin email address.
 
 ## Seminar Schedule
 
-### List of Seminars
-
-* [Seminar #1: XXXX (XXXXX) "TBA"](#seminar1)
+- [Seminar 1](#seminar-1)
 
 ### Seminar 1
-
-#### Speaker
-**XXXX** (XXXXX)
-
-#### Title
-TBA
-
-#### Abstract
-To be announced
-
-#### Date and Time
-[To be announced]
+* Date: July 15, 2025 (Tuesday) 11:00 JST-12:00 JST<br>
+* Speaker: XXXX (XXXXX)<br>
+* Title: TBA
+* Abstract: (TBA)
