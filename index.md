@@ -3,7 +3,12 @@
 The Asian-Pacific Condensed Matter Physics Seminars (AP-CMP) is a series of online seminars that brings together researchers from across the Asia-Pacific region and beyond. Our goal is to foster scientific exchange and collaboration in the field of condensed matter physics.
 
 ## Mailing List
-Please join the mailing list to receive the meeting information.
+Please join [our public mailing list](https://groups.google.com/g/apcmpseminar_public/) to receive the meeting information.
+If you have a Google account, you can join the mailing list by clicking the "Join Group" button on the Google Groups page.
+
+If you does not have a Google account, please submit your request to [a request form](https://forms.gle/vXqGaJDk1SyiyqZn6).
+Note that we will add corrected e-mail addresses regulary but not immediately.
+We strongly recommend you to join the mailing list using your Google account if any.
 
 ## Participation Guidelines
 
@@ -17,7 +22,7 @@ Please join the mailing list to receive the meeting information.
 
 ## Contact
 
-For any inquiries, please contact us through the admin email address.
+For any inquiries, please contact us through [the admin email address](mailto:mapcmpseminar_admin@googlegroups.com).
 
 ## Seminar Schedule
 
