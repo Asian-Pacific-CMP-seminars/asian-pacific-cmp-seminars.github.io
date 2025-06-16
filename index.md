@@ -9,6 +9,7 @@ If you have a Google account, you can join the mailing list by clicking the "Joi
 If you does not have a Google account, please submit your request to [a request form](https://forms.gle/vXqGaJDk1SyiyqZn6).
 Note that we will add corrected e-mail addresses regulary but not immediately.
 We strongly recommend you to join the mailing list using your Google account if any.
+If you do not receive an invitation within a few days, please check the trash folder and then contact us.
 
 ## Participation Guidelines
 
