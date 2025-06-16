@@ -1,0 +1,4 @@
+theme: jekyll-theme-slate
+# Site Settings
+locale                   : "en"
+title                    : "Asian-Pacific CMP seminars"
