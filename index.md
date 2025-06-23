@@ -27,10 +27,12 @@ For any inquiries, please contact us through [the admin email address](mailto:ma
 
 ## Seminar Schedule
 
-- [Seminar 1](#seminar-1)
+- [Seminar 1: Yantao Wu, "Accurate Gauge-Invariant Tensor Network Simulations for Abelian Lattice Gauge Theory in (2+1)D"](#seminar-1)
 
 ### Seminar 1
-* Date: July 15, 2025 (Tuesday) 11:00 JST-12:00 JST<br>
-* Speaker: XXXX (XXXXX)<br>
-* Title: TBA
-* Abstract: (TBA)
+* Date: July 15, 2025 (Tuesday) 11:00 JST-12:00 JST
+* Speaker: Yantao Wu (Institute of Physics, Chinese Academy of Sciences)<br>
+
+Title: Accurate Gauge-Invariant Tensor Network Simulations for Abelian Lattice Gauge Theory in (2+1)D
+
+We propose a novel tensor network method to achieve accurate and efficient simulations of Abelian lattice gauge theories (LGTs) in (2+1)D. The first key is to identify a gauge canonical form (GCF) of gauge-invariant tensor network states, which simplifies existing algorithms already for (1+1)D LGTs. The second key is to employ the GCF of projected entangled-pair state (PEPS) combining variational Monte Carlo, enabling efficient variational optimization for (2+1)D LGT ground states with gauge and matter fields. We demonstrate the versatile capability of this approach for accurate simulation of pure ℤ2, ℤ3 and ℤ4 gauge theory, odd-ℤ2 gauge theories, and ℤ2 gauge theory coupled to hard-core bosons, on square lattices up to 32×32. Our work establishes gauge-invariant PEPS as a powerful approach to simulate (2+1)D Abelian LGTs.
