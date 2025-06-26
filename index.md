@@ -17,14 +17,31 @@ If you do not receive an invitation within a few days, please check the trash fo
 * When joining the meeting, please set your display name as "Your Name @ Your Institution".
 * To prevent audio feedback, please use headphones when asking questions.
 
-## Organizers
-Sangkook Choi (Korea Institute for Advanced Study), Chia-Min Chung (National Sun Yat‑sen University), Atsushi Hariki (Osaka Metropolitan University), Yi-Ping Huang (National Tsing Hua University), Seung-Sup B. Lee (Seoul National University), Takahiro Misawa (The University of Tokyo), Yuki Nagai (The University of Tokyo), Tsuyoshi Okubo (The University of Tokyo), Seishiro Ono (RIKEN), Tokuro Shimokawa (Okinawa Institute of Science and Technology Graduate University), Hiroshi Shinaoka (Saitama University), Kazuaki Takasan (The University of Tokyo), Lei Wang (Chinese Academy of Sciences)
 
 If you are interested in organizing a seminar, please contact us through [the admin email address](mailto:mapcmpseminar_admin@googlegroups.com).
 
 ## Contact
 
 For any inquiries, please contact us through [the admin email address](mailto:mapcmpseminar_admin@googlegroups.com).
+
+
+## Organizers
+- Sangkook Choi (Korea Institute for Advanced Study)
+- Chia-Min Chung (National Yang Ming Chiao Tung University)
+- Atsushi Hariki (Osaka Metropolitan University)
+- Yi-Ping Huang (National Tsing Hua University)
+- Ken Inayoshi (Saitama University)
+- Seung-Sup B. Lee (Seoul National University)
+- Yoshihiro Michishita (Saitama University)
+- Takahiro Misawa (The University of Tokyo)
+- Yuki Nagai (The University of Tokyo)
+- Tsuyoshi Okubo (The University of Tokyo)
+- Seishiro Ono (RIKEN)
+- Robert Peters (Kyoto University)
+- Tokuro Shimokawa (Okinawa Institute of Science and Technology Graduate University)
+- Hiroshi Shinaoka (Saitama University)
+- Kazuaki Takasan (The University of Tokyo)
+- Lei Wang (Chinese Academy of Sciences)
 
 ## Seminar Schedule
 
