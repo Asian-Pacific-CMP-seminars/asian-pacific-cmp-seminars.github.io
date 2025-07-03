@@ -41,6 +41,7 @@ For any inquiries, please contact us through [the admin email address](mailto:ma
 - Tokuro Shimokawa (Okinawa Institute of Science and Technology Graduate University)
 - Hiroshi Shinaoka (Saitama University)
 - Kazuaki Takasan (The University of Tokyo)
+- Nayuta Takemori (The University of Osaka)
 - Lei Wang (Chinese Academy of Sciences)
 
 ## Seminar Schedule
