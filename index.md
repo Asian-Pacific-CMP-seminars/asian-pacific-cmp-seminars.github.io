@@ -40,8 +40,10 @@ For any inquiries, please contact us through [the admin email address](mailto:ma
 - Robert Peters (Kyoto University)
 - Tokuro Shimokawa (Okinawa Institute of Science and Technology Graduate University)
 - Hiroshi Shinaoka (Saitama University)
+- Zhida Song (Peking University)
 - Kazuaki Takasan (The University of Tokyo)
 - Nayuta Takemori (The University of Osaka)
+- Yuan Wan (Chinese Academy of Sciences)
 - Lei Wang (Chinese Academy of Sciences)
 
 ## Seminar Schedule
@@ -49,7 +51,7 @@ For any inquiries, please contact us through [the admin email address](mailto:ma
 - [Seminar 1: Yantao Wu, "Accurate Gauge-Invariant Tensor Network Simulations for Abelian Lattice Gauge Theory in (2+1)D"](#seminar-1)
 
 ### Seminar 1
-* Date: July 15, 2025 (Tuesday) 11:00 JST-12:00 JST
+* Date: July 15, 2025 (Tuesday) 11:00 JST-12:00 JST 
 * Speaker: Yantao Wu (Institute of Physics, Chinese Academy of Sciences)<br>
 
 Title: Accurate Gauge-Invariant Tensor Network Simulations for Abelian Lattice Gauge Theory in (2+1)D
