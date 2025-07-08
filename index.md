@@ -26,12 +26,17 @@ For any inquiries, please contact us through [the admin email address](mailto:ma
 
 
 ## Organizers
+### Core Committee Members
 - Sangkook Choi (Korea Institute for Advanced Study)
 - Chia-Min Chung (National Yang Ming Chiao Tung University)
-- Atsushi Hariki (Osaka Metropolitan University)
 - Yi-Ping Huang (National Tsing Hua University)
-- Ken Inayoshi (Saitama University)
 - Seung-Sup B. Lee (Seoul National University)
+- Hiroshi Shinaoka (Saitama University)
+- Kazuaki Takasan (The University of Tokyo)
+
+### Current Members
+- Atsushi Hariki (Osaka Metropolitan University)
+- Ken Inayoshi (Saitama University)
 - Yoshihiro Michishita (Saitama University)
 - Takahiro Misawa (The University of Tokyo)
 - Yuki Nagai (The University of Tokyo)
@@ -39,10 +44,10 @@ For any inquiries, please contact us through [the admin email address](mailto:ma
 - Seishiro Ono (RIKEN)
 - Robert Peters (Kyoto University)
 - Tokuro Shimokawa (Okinawa Institute of Science and Technology Graduate University)
-- Hiroshi Shinaoka (Saitama University)
-- Kazuaki Takasan (The University of Tokyo)
 - Nayuta Takemori (The University of Osaka)
 - Lei Wang (Chinese Academy of Sciences)
+
+### Alumni members
 
 ## Seminar Schedule
 
