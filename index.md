@@ -53,12 +53,31 @@ For any inquiries, please contact us through [the admin email address](mailto:ma
 
 ## Seminar Schedule
 
-- [Seminar 1: Yantao Wu, "Accurate Gauge-Invariant Tensor Network Simulations for Abelian Lattice Gauge Theory in (2+1)D"](#seminar-1)
+- [Seminar 1: Yantao Wu, "Alternating and Gaussian fermionic Isometric Tensor Network States"](#seminar-1)
 
 ### Seminar 1
 * Date: July 15, 2025 (Tuesday) 11:00 JST-12:00 JST 
 * Speaker: Yantao Wu (Institute of Physics, Chinese Academy of Sciences)<br>
+* Bio: Yantao Wu is an associate professor at the Instittute of Physics in the Chinese Academy of Sciences. He obtained a B.S. in physics from Harvey Mudd College, and a PhD in physics from Princeton University. He was trained as a postdoc in UC Berkeley and RIKEN. He is broadly interested in the computational aspect of statistical physics, tensor networks, and quuantum information.
 
-Title: Accurate Gauge-Invariant Tensor Network Simulations for Abelian Lattice Gauge Theory in (2+1)D
+* Title: Alternating and Gaussian fermionic Isometric Tensor Network States
 
-We propose a novel tensor network method to achieve accurate and efficient simulations of Abelian lattice gauge theories (LGTs) in (2+1)D. The first key is to identify a gauge canonical form (GCF) of gauge-invariant tensor network states, which simplifies existing algorithms already for (1+1)D LGTs. The second key is to employ the GCF of projected entangled-pair state (PEPS) combining variational Monte Carlo, enabling efficient variational optimization for (2+1)D LGT ground states with gauge and matter fields. We demonstrate the versatile capability of this approach for accurate simulation of pure ℤ2, ℤ3 and ℤ4 gauge theory, odd-ℤ2 gauge theories, and ℤ2 gauge theory coupled to hard-core bosons, on square lattices up to 32×32. Our work establishes gauge-invariant PEPS as a powerful approach to simulate (2+1)D Abelian LGTs.
+Isometric tensor networks in two dimensions enable efficient and accurate study of quantum many-
+body states, yet the effect of the isometric restriction on the represented quantum states is not fully
+understood. We address this question in two main contributions. First, we introduce an improved
+variant of isometric network states (isoTNS) in two dimensions, where the isometric arrows on the
+columns of the network alternate between pointing upward and downward, hence the name alter-
+nating isometric tensor network states. Second, we introduce a numerical tool – isometric Gaussian
+fermionic TNS (isoGfTNS) – that incorporates isometric constraints into the framework of Gaus-
+sian fermionic tensor network states. We demonstrate in numerous ways that alternating isoTNS
+represent many-body ground states of two-dimensional quantum systems significantly better than
+the original isoTNS. First, we show that the entanglement in an isoTNS is mediated along the iso-
+metric arrows and that alternating isoTNS mediate entanglement more efficiently than conventional
+isoTNS. Second, alternating isoTNS correspond to a deeper, thus more representative, sequential
+circuit construction of depth O(Lx·Ly ) compared to the original isoTNS of depth O(Lx + Ly ).
+Third, using the Gaussian framework and gradient-based energy minimization, we provide numer-
+ical evidences of better bond-dimension scaling and variational energy of alternating isoGfTNS for
+ground states of various free fermionic models, including the Fermi surface, the band insulator, and
+the px +ipy mean-field superconductor. Finally, we find improved performance of alternating isoTNS
+as compared to the original isoTNS for the ground state energy of the (interacting) transverse field
+Ising model.
