@@ -58,7 +58,7 @@ For any inquiries, please contact us through [the admin email address](mailto:ma
 ### Seminar 1
 * Date: ~~July 15, 2025 (Tuesday) 11:00 JST-12:00 JST~~ July 22, 2025 (Tuesday) 11:00 JST-12:00 JST 
 * Speaker: Yantao Wu (Institute of Physics, Chinese Academy of Sciences)<br>
-* Bio: Yantao Wu is an associate professor at the Instittute of Physics in the Chinese Academy of Sciences. He obtained a B.S. in physics from Harvey Mudd College, and a PhD in physics from Princeton University. He was trained as a postdoc in UC Berkeley and RIKEN. He is broadly interested in the computational aspect of statistical physics, tensor networks, and quuantum information.
+* Bio: Yantao Wu is an associate professor at the Instittute of Physics in the Chinese Academy of Sciences. He obtained a B.S. in physics from Harvey Mudd College, and a PhD in physics from Princeton University. He was trained as a postdoc in UC Berkeley and RIKEN. He is broadly interested in the computational aspect of statistical physics, tensor networks, and quantum information.
 
 * Title: Alternating and Gaussian fermionic Isometric Tensor Network States
 
