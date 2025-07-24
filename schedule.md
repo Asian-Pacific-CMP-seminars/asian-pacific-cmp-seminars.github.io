@@ -1,11 +1,24 @@
+# Website
+https://asian-pacific-cmp-seminars.github.io/
+
+# Online document
+https://docs.google.com/document/d/1WtgDLoIaoAS32dmFT3qDyThqxH-MufJYObCSJ1wFTvs/edit?tab=t.0
+
+# Speakers
+| Name | Title | Time |
+|----------|----------|----------|
+| Yantao Wu | Alternating and Gaussian fermionic Isometric Tensor Network States | July 22, 2025 (Tuesday) 11:00 JST-12:00 JST |
+| Po-Yao Chang | Diagnosing Many-Body Systems with Entanglement: Insights from Non-Unitary CFTs and TQFTs | August 12, 2025 (Tuesday) 11:00 JST-12:00 JST     |
+| Tsung-Han Lee |  |      |
+
 # Schedule plan
 
 - August 5: Unavailable — Conference week (LT25)
-- August 12: Available
+- August 12: **Po-Yao Chang**
 - August 19: Available
 - August 26: Available
 - September 2: Available
-- September 9: Available
+- September 9: **Tsung-Han Lee** (to be confirmed)
 - September 16: Unavailable — JSPS meeting
 - September 23: Unavailable — Japanese holiday
 - September 30: Available
@@ -17,3 +30,4 @@
 - November 11: Available
 - November 18: Available
 - November 25: Available
+
