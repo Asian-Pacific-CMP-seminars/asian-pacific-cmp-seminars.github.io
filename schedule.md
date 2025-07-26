@@ -9,16 +9,17 @@ https://docs.google.com/document/d/1WtgDLoIaoAS32dmFT3qDyThqxH-MufJYObCSJ1wFTvs/
 |----------|----------|----------|
 | Yantao Wu | Alternating and Gaussian fermionic Isometric Tensor Network States | July 22, 2025 (Tuesday) 11:00-12:00 JST |
 | Po-Yao Chang | Diagnosing Many-Body Systems with Entanglement: Insights from Non-Unitary CFTs and TQFTs | August 12, 2025 (Tuesday) 11:00-12:00 JST |
-| Tsung-Han Lee |  | Sep 2, 2025 (Tuesday) 11:00-12:00 JST |
+| Mingu Kang | TBA | August 26, 2025 (Tuesday) 11:00-12:00 JST |
+| Tsung-Han Lee | TBA | Sep 2, 2025 (Tuesday) 11:00-12:00 JST |
 
 # Schedule plan
 
 - August 5: Unavailable — Conference week (LT25)
 - August 12: **Po-Yao Chang**
 - August 19: Available
-- August 26: Available
-- September 2: Available
-- September 9: **Tsung-Han Lee**
+- August 26: **Mingu Kang**
+- September 2: **Tsung-Han Lee**
+- September 9: Available
 - September 16: Unavailable — JSPS meeting
 - September 23: Unavailable — Japanese holiday
 - September 30: Available
