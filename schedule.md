@@ -11,7 +11,7 @@ https://docs.google.com/document/d/1WtgDLoIaoAS32dmFT3qDyThqxH-MufJYObCSJ1wFTvs/
 | Po-Yao Chang || Diagnosing Many-Body Systems with Entanglement: Insights from Non-Unitary CFTs and TQFTs | August 12, 2025 (Tuesday) 11:00-12:00 JST ||
 | Mingu Kang || TBA | August 26, 2025 (Tuesday) 11:00-12:00 JST ||
 | Tsung-Han Lee || TBA | Sep 2, 2025 (Tuesday) 11:00-12:00 JST ||
-| Tatsuya Miki |Saitama University| TBA | October 14, 2025 (Tuesday) 11:00-12:00 JST | Hiroshi Shinaoka|
+| Tatsuya Miki |Saitama University| First-principles Calculations of Electron Chirality in Solids | October 14, 2025 (Tuesday) 11:00-12:00 JST | Hiroshi Shinaoka|
 
 # Schedule plan
 
