@@ -8,9 +8,9 @@ https://docs.google.com/document/d/1WtgDLoIaoAS32dmFT3qDyThqxH-MufJYObCSJ1wFTvs/
 | Name | Affiliation | Title | Time | Chair |
 |----------|----------|----------|----------|----------|
 | Yantao Wu |Institute of Physics, Chinese Academy of Sciences| Alternating and Gaussian fermionic Isometric Tensor Network States | July 22, 2025 (Tuesday) 11:00-12:00 JST | Lei Wang → Hiroshi Shinaoka|
-| Po-Yao Chang || Diagnosing Many-Body Systems with Entanglement: Insights from Non-Unitary CFTs and TQFTs | August 12, 2025 (Tuesday) 11:00-12:00 JST ||
+| Po-Yao Chang |National Tsing Hua University| Diagnosing Many-Body Systems with Entanglement: Insights from Non-Unitary CFTs and TQFTs | August 12, 2025 (Tuesday) 11:00-12:00 JST |Chia-Min Chung|
 | Mingu Kang || TBA | August 26, 2025 (Tuesday) 11:00-12:00 JST | Seung-Sup Lee |
-| Tsung-Han Lee || TBA | Sep 2, 2025 (Tuesday) 11:00-12:00 JST ||
+| Tsung-Han Lee |National Chung Cheng University| TBA | Sep 2, 2025 (Tuesday) 11:00-12:00 JST ||
 | Jiabin Yu | University of Florida | Wilson-loop-ideal Bands and General Idealization | Sep 30, 2025 (Tuesday) 11:00-12:00 JST | Zhi-Da Song |
 | Tatsuya Miki |Saitama University| First-principles Calculations of Electron Chirality in Solids | October 14, 2025 (Tuesday) 11:00-12:00 JST | Hiroshi Shinaoka|
 
