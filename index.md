@@ -89,7 +89,7 @@ Ising model.
 
 ### Seminar 2
 * Date: August 12, 2025 (Tuesday) 11:00 JST-12:00 JST
-* Speaker: Po-Yao Chang
+* Speaker: Po-Yao Chang (National Tsing Hua University)
 * Title: Diagnosing Many-Body Systems with Entanglement: Insights from Non-Unitary CFTs and TQFTs
 
 Entanglement measures are essential tools for characterizing quantum many-body phases of matter. In (1+1)-dimensional conformal field theories (CFTs), entanglement entropy typically exhibits logarithmic scaling, with the coefficient yielding the central charge. However, for non-unitary CFTs, this central charge can be negative, leading to seemingly problematic negative entanglement entropy. We address this by introducing a generalized entanglement entropy that successfully extracts these negative central charges, demonstrated with several examples. Furthermore, in (2+1)-dimensional systems described by topological quantum field theories (TQFTs), the subleading term of entanglement entropy, known as the topological entanglement entropy (TEE), encodes crucial information about quasiparticle statistics. This talk will also present a topological derivation of the strong subadditivity of TEE.
