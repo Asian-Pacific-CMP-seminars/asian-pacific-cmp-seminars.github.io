@@ -57,7 +57,8 @@ For any inquiries, please contact us through [the admin email address](mailto:ma
 - [Seminar 2: Po-Yao Chang, "Diagnosing Many-Body Systems with Entanglement: Insights from Non-Unitary CFTs and TQFTs"](#seminar-2)
 - [Seminar 3: Mingu Kang, "TBA"](#seminar-3)
 - [Seminar 4: Tsung-Han Lee, "TBA"](#seminar-4)
-- [Seminar 5: Tatsuya Miki, "First-principles Calculations of Electron Chirality in Solids"](#seminar-5)
+- [Seminar 5: Jiabin Yu, "Wilson-loop-ideal Bands and General Idealization"](#seminar-5)
+- [Seminar 6: Tatsuya Miki, "First-principles Calculations of Electron Chirality in Solids"](#seminar-6)
 
 ### Seminar 1
 * Date: ~~July 15, 2025 (Tuesday) 11:00 JST-12:00 JST~~ July 22, 2025 (Tuesday) 11:00 JST-12:00 JST 
@@ -102,6 +103,11 @@ Ising model.
 * Title: TBA
 
 ### Seminar 5
+* Date: September 30, 2025 (Tuesday) 11:00 JST-12:00 JST
+* Speaker: Jiabin Yu (University of Florida)
+* Title: Wilson-loop-ideal Bands and General Idealization
+
+### Seminar 6
 * Date: October 14, 2025 (Tuesday) 11:00 JST-12:00 JST
 * Speaker: Tatsuya Miki (Saitama University)
 * Title: First-principles Calculations of Electron Chirality in Solids
