@@ -54,6 +54,10 @@ For any inquiries, please contact us through [the admin email address](mailto:ma
 ## Seminar Schedule
 
 - [Seminar 1: Yantao Wu, "Alternating and Gaussian fermionic Isometric Tensor Network States"](#seminar-1)
+- [Seminar 2: Po-Yao Chang, "Diagnosing Many-Body Systems with Entanglement: Insights from Non-Unitary CFTs and TQFTs"](#seminar-2)
+- [Seminar 3: Mingu Kang, "TBA"](#seminar-3)
+- [Seminar 4: Tsung-Han Lee, "TBA"](#seminar-4)
+- [Seminar 5: Tatsuya Miki, "First-principles Calculations of Electron Chirality in Solids"](#seminar-5)
 
 ### Seminar 1
 * Date: ~~July 15, 2025 (Tuesday) 11:00 JST-12:00 JST~~ July 22, 2025 (Tuesday) 11:00 JST-12:00 JST 
@@ -81,3 +85,23 @@ ground states of various free fermionic models, including the Fermi surface, the
 the px +ipy mean-field superconductor. Finally, we find improved performance of alternating isoTNS
 as compared to the original isoTNS for the ground state energy of the (interacting) transverse field
 Ising model.
+
+### Seminar 2
+* Date: August 12, 2025 (Tuesday) 11:00 JST-12:00 JST
+* Speaker: Po-Yao Chang
+* Title: Diagnosing Many-Body Systems with Entanglement: Insights from Non-Unitary CFTs and TQFTs
+
+### Seminar 3
+* Date: August 26, 2025 (Tuesday) 11:00 JST-12:00 JST
+* Speaker: Mingu Kang
+* Title: TBA
+
+### Seminar 4
+* Date: September 2, 2025 (Tuesday) 11:00 JST-12:00 JST
+* Speaker: Tsung-Han Lee
+* Title: TBA
+
+### Seminar 5
+* Date: October 14, 2025 (Tuesday) 11:00 JST-12:00 JST
+* Speaker: Tatsuya Miki (Saitama University)
+* Title: First-principles Calculations of Electron Chirality in Solids
