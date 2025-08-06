@@ -9,5 +9,5 @@ while the other half retire at the end of July.
 ### Japan
 
 * JPS Division 1: H. Shinaoka
-* JPS Division 8: 
+* JPS Division 8: Y. Michishita
 * JPS Division 11: T. Okubo
