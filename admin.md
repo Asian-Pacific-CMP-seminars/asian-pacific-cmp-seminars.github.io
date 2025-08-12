@@ -9,6 +9,7 @@ The host can make a slideshow while waiting before the talk.
   2. Once it goes into the slideshow mode, click the three-dots button on the lower left.
   3. Hover your cursor on "Auto-play". Click "Play" and "Loop".
   4. Choose a proper time (e.g., 10 secs) for transitions between slides.
+Feel free to edit them if you want to advertise the conferences you organize.
 
 ## Terms of core members
 The term of each core member is one year.
