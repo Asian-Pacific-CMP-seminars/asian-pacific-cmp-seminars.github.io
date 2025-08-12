@@ -5,11 +5,13 @@
 
 - Advertisement slides: https://docs.google.com/presentation/d/1Ctl0GiG-eZQdj0ceTsJ0gZVqp9hetc2WF08U5MS-Y_c/edit?usp=sharing
 The host can make a slideshow while waiting before the talk.
+Feel free to edit them if you want to advertise the conferences you organize.
+To make a recurring slideshow, you can do the following.
   1. Click the "Slideshow" button on the upper right.
   2. Once it goes into the slideshow mode, click the three-dots button on the lower left.
   3. Hover your cursor on "Auto-play". Click "Play" and "Loop".
   4. Choose a proper time (e.g., 10 secs) for transitions between slides.
-Feel free to edit them if you want to advertise the conferences you organize.
+  
 
 ## Terms of core members
 The term of each core member is one year.
