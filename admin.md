@@ -9,7 +9,7 @@ Feel free to edit them if you want to advertise the conferences you organize.
 To make a recurring slideshow, you can do the following.
   1. Click the "Slideshow" button on the upper right.
   2. Once it goes into the slideshow mode, click the three-dots button on the lower left.
-  3. Hover your cursor on "Auto-play". Click "Play" and "Loop".
+  3. Hover your cursor over "Auto-play". Click "Play" and "Loop".
   4. Choose a proper time (e.g., 10 secs) for transitions between slides.
   
 
