@@ -63,7 +63,7 @@ For any inquiries, please contact us through [the admin email address](mailto:ma
 ### Seminar 1
 * Date: ~~July 15, 2025 (Tuesday) 11:00 JST-12:00 JST~~ July 22, 2025 (Tuesday) 11:00 JST-12:00 JST 
 * Speaker: Yantao Wu (Institute of Physics, Chinese Academy of Sciences)<br>
-* Bio: Yantao Wu is an associate professor at the Instittute of Physics in the Chinese Academy of Sciences. He obtained a B.S. in physics from Harvey Mudd College, and a PhD in physics from Princeton University. He was trained as a postdoc in UC Berkeley and RIKEN. He is broadly interested in the computational aspect of statistical physics, tensor networks, and quantum information.
+<!-- * Bio: Yantao Wu is an associate professor at the Instittute of Physics in the Chinese Academy of Sciences. He obtained a B.S. in physics from Harvey Mudd College, and a PhD in physics from Princeton University. He was trained as a postdoc in UC Berkeley and RIKEN. He is broadly interested in the computational aspect of statistical physics, tensor networks, and quantum information. -->
 
 * Title: Alternating and Gaussian fermionic Isometric Tensor Network States
 
@@ -97,7 +97,11 @@ Entanglement measures are essential tools for characterizing quantum many-body p
 ### Seminar 3
 * Date: August 26, 2025 (Tuesday) 11:00 JST-12:00 JST
 * Speaker: Mingu Kang
-* Title: TBA
+* Title: Three different charge orders in kagome lattice materials
+
+Kagome lattice is one of the most fertile geometric motifs in condensed matter physics, where a unique interplay between topology, correlation, and frustration gives rise to a plethora of quantum phenomena. Charge ordering is an example of quantum states prevalently observed in various Kagome lattice materials, including AV<sub>3</sub>Sb<sub>5</sub>, ScV<sub>6</sub>Sn<sub>6</sub>, and FeGe, and is found to be intertwined with superconductivity, magnetism, and anomalous Hall effect in a nontrivial manner.
+
+In this talk, I will present our comprehensive investigations of charge orders in Kagome lattice materials using a suite of scattering and spectroscopy techniques, including ARPES and time-resolved XRD. Our results point toward that despite their apparently similar phenomenology, the charge orders in AV<sub>3</sub>Sb<sub>5</sub>, ScV<sub>6</sub>Sn<sub>6</sub>, and FeGe each have a completely different nature, emerging from electronic instability, lattice instability, and magnetism-driven transition, respectively. Our investigations not only provide guidance on the classification of charge order in broader quantum materials, but also highlight the utility of combining complementary photon science techniques – photon-in-electron-out, photon-in-photon-out, static and time-resolved – for a deeper understanding of quantum phenomena in solids.
 
 ### Seminar 4
 * Date: September 2, 2025 (Tuesday) 11:00 JST-12:00 JST
