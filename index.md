@@ -56,7 +56,7 @@ For any inquiries, please contact us through [the admin email address](mailto:ma
 - [Seminar 1: Yantao Wu, "Alternating and Gaussian fermionic Isometric Tensor Network States"](#seminar-1)
 - [Seminar 2: Po-Yao Chang, "Diagnosing Many-Body Systems with Entanglement: Insights from Non-Unitary CFTs and TQFTs"](#seminar-2)
 - [Seminar 3: Mingu Kang, "TBA"](#seminar-3)
-- [Seminar 4: Tsung-Han Lee, "TBA"](#seminar-4)
+- [Seminar 4: Tsung-Han Lee, "Ghost Rotationally-Invariant Slave-Boson Approach to Strongly Correlated Materials"](#seminar-4)
 - [Seminar 5: Jiabin Yu, "Wilson-loop-ideal Bands and General Idealization"](#seminar-5)
 - [Seminar 6: Tatsuya Miki, "First-principles Calculations of Electron Chirality in Solids"](#seminar-6)
 
@@ -106,7 +106,26 @@ In this talk, I will present our comprehensive investigations of charge orders i
 ### Seminar 4
 * Date: September 2, 2025 (Tuesday) 11:00 JST-12:00 JST
 * Speaker: Tsung-Han Lee
-* Title: TBA
+* Title: Ghost Rotationally-Invariant Slave-Boson Approach to Strongly Correlated Materials
+
+The rotationally-invariant slave-boson (RISB) approach is a highly efficient method for simulating strongly correlated systems [1]. When combined with density functional theory (DFT+RISB), it becomes a powerful tool for studying strong correlation effects in materials. However, despite its efficiency, the RISB method sometimes suffers from insufficient accuracy, leading to inaccurate descriptions of material properties, such as an overestimated effective mass of Sr 2 RuO 4 and a
+larger critical Coulomb interaction for Mott transitions [2].
+
+In this talk, I will introduce a systematic way to enhance the accuracy of RISB by introducing auxiliary ghost orbitals, which we refer to as the ghost-rotationally-invariant slave-boson (gRISB) method, or equivalently, ghost-Gutzwiller approximation [3]. I will first present examples of binary transition metal oxides where DFT+RISB necessitates the use of unrealistic Coulomb parameters, significantly deviating from first-principle calculated values, to reproduce the experimental observations [2]. Subsequently, I will demonstrate how DFT+gRISB offers a systematic approach to improve the accuracy of DFT+RISB, enabling accurate descriptions of
+correlated materials with realistic Coulomb interactions [4,5,6]. Finally, I will discuss recent applications of gRISB, including its role in capturing the structural distortion phase transition in SrMoO₃ and its extension to response function calculations [7].
+
+[1] F. Lechermann, A. Georges, G. Kotliar, and O. Parcollet, Phys. Rev. B 76, 155102 (2007)  
+[2] Nicola Lanatà, Tsung-Han Lee, Yong-Xin Yao, Vladan Stevanović, Vladimir Dobrosavljević,
+npj Computational Materials 5 (1), 1-6 (2019)  
+[3] Nicola Lanatà, Tsung-Han Lee, Yong-Xin Yao, and Vladimir Dobrosavljević, Phys. Rev. B 96,
+195126 (2017)  
+[4] Tsung-Han Lee, Nicola Lanatà, and Gabriel Kotliar, Phys. Rev. B 107, L121104 (2023)  
+[5] Tsung-Han Lee, Corey Melnick, Ran Adler, Nicola Lanatà, Gabriel Kotliar, Phys. Rev. B 108,
+245147 (2023)  
+[6] Tsung-Han Lee, Corey Melnick, Ran Adler, Xue Sun, Yongxin Yao, Nicola Lanatà, Gabriel
+Kotliar, Physical Review B 110, 115126 (2024)  
+[7] Tsung-Han Lee, Nicola Lanatà, Minjae Kim, Gabriel Kotliar, Physical Review X 11 (4),
+041040 (2021)
 
 ### Seminar 5
 * Date: September 30, 2025 (Tuesday) 11:00 JST-12:00 JST
