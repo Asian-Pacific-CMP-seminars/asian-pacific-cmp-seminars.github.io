@@ -55,7 +55,7 @@ For any inquiries, please contact us through [the admin email address](mailto:ma
 
 - [Seminar 1: Yantao Wu, "Alternating and Gaussian fermionic Isometric Tensor Network States"](#seminar-1)
 - [Seminar 2: Po-Yao Chang, "Diagnosing Many-Body Systems with Entanglement: Insights from Non-Unitary CFTs and TQFTs"](#seminar-2)
-- [Seminar 3: Mingu Kang, "TBA"](#seminar-3)
+- [Seminar 3: Mingu Kang, "Three different charge orders in kagome lattice materials"](#seminar-3)
 - [Seminar 4: Tsung-Han Lee, "Ghost Rotationally-Invariant Slave-Boson Approach to Strongly Correlated Materials"](#seminar-4)
 - [Seminar 5: Jiabin Yu, "Wilson-loop-ideal Bands and General Idealization"](#seminar-5)
 - [Seminar 6: Tatsuya Miki, "First-principles Calculations of Electron Chirality in Solids"](#seminar-6)
