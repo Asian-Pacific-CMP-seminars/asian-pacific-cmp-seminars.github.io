@@ -71,6 +71,33 @@ See [PR.md](PR.md) for the draft of announcement to local/international mailing 
 
 ## Session Chair Protocol (Day of Seminar)
 
+
+### Annoucement of the seminar (One week before the seminar, one day before the seminar, the day of the seminar)
+
+```
+Dear all,
+
+The next AP-CMP seminar will be held on [date] at [time] (JST).
+
+The speaker is [speaker's name] from [speaker's affiliation].
+
+The title of the talk is [title].
+
+The link to the seminar is [link].
+
+The recording will be available on KouShare after the seminar.
+
+Best regards,
+
+[Your Name]
+[Your Affiliation]
+On behalf of the AP-CMP Seminar Organizing Committee
+
+Contact: apcmpseminar_admin@googlegroups.com
+```
+
+
+
 ### Pre-seminar Setup (10 minutes before)
 
 1. **Join the Zoom meeting early** using the provided link.
