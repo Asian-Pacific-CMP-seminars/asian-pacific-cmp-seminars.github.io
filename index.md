@@ -53,6 +53,10 @@ For any inquiries, please contact us through [the admin email address](mailto:ma
 
 ## Seminar Schedule
 
+<iframe src="https://calendar.google.com/calendar/embed?src=ec6c97e950e6f1c752fa2c07258c1a9e317c90f951f0ac201cabca1dc48920ca%40group.calendar.google.com&ctz=Asia%2FTokyo" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+### Upcoming Seminars
+
 - [Seminar 1: Yantao Wu, "Alternating and Gaussian fermionic Isometric Tensor Network States"](#seminar-1)
 - [Seminar 2: Po-Yao Chang, "Diagnosing Many-Body Systems with Entanglement: Insights from Non-Unitary CFTs and TQFTs"](#seminar-2)
 - [Seminar 3: Mingu Kang, "Three different charge orders in kagome lattice materials"](#seminar-3)
