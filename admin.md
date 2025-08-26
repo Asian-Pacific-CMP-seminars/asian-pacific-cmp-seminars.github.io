@@ -65,6 +65,12 @@ On behalf of the AP-CMP Seminar Organizing Committee
 Contact: mapcmpseminar_admin@googlegroups.com
 ```
 
+## Add new seminar to the schedule
+
+* Update `schedule.md`
+* Update the schedule section in `index.md`
+* Update the Google Calendar
+
 ## PR
 
 See [PR.md](PR.md) for the draft of announcement to local/international mailing lists.
