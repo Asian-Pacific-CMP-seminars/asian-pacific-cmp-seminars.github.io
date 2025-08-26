@@ -20,6 +20,9 @@ If you do not receive an invitation within a few days, please check the trash fo
 
 If you are interested in organizing a seminar, please contact us through [the admin email address](mailto:mapcmpseminar_admin@googlegroups.com).
 
+## Replays
+The replays are available on [KouShare](https://www.koushare.com/space/395541/home).
+
 ## Contact
 
 For any inquiries, please contact us through [the admin email address](mailto:mapcmpseminar_admin@googlegroups.com).
