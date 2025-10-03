@@ -143,7 +143,7 @@ Kotliar, Physical Review B 110, 115126 (2024)
 
 ### Seminar 6
 * Date: October 14, 2025 (Tuesday) 11:00 JST-12:00 JST
-* Speaker: Tatsuya Miki (Saitama University)
+* Speaker: Tatsuya Miki (Tohoku University)
 * Title: First-principles Calculations of Electron Chirality in Solids
 
 Chiral materials have attracted significant attention for their unique electronic phenomena, such as cross-correlation responses, chirality-induced spin selectivity (CISS), and circular dichroism. To understand and control the material chirality, it is important to consider the quantitative measure that can continuously characterize the chirality of electrons, going beyond the binary distinction of "left" and "right" [1]. Recently, electron chirality, based on relativistic quantum theory, has been proposed as a quantitative measure of chirality [2]. However, it is still unclear which physical parameters in solids control electron chirality and how this connects to the experimentally observable quantity.
