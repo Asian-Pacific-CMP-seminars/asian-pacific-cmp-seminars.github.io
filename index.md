@@ -145,3 +145,15 @@ Kotliar, Physical Review B 110, 115126 (2024)
 * Date: October 14, 2025 (Tuesday) 11:00 JST-12:00 JST
 * Speaker: Tatsuya Miki (Saitama University)
 * Title: First-principles Calculations of Electron Chirality in Solids
+
+Chiral materials have attracted significant attention for their unique electronic phenomena, such as cross-correlation responses, chirality-induced spin selectivity (CISS), and circular dichroism. To understand and control the material chirality, it is important to consider the quantitative measure that can continuously characterize the chirality of electrons, going beyond the binary distinction of "left" and "right" [1]. Recently, electron chirality, based on relativistic quantum theory, has been proposed as a quantitative measure of chirality [2]. However, it is still unclear which physical parameters in solids control electron chirality and how this connects to the experimentally observable quantity.
+
+In this talk, we will present the results of quantitative evaluations of the electron chirality using first-principles calculations [3]. The electron chirality exhibits rapid sign changes with respect to the chemical potential, indicating the possibility of controlling right- and left-handed electrons through the small chemical potential shift, such as electron or hole doping. Furthermore, we will demonstrate that electron chirality can be observed experimentally by using circularly polarized light in photoelectron spectroscopy. Finally, to gain clearer insight into the origin of electron chirality, we also study simplified atomic models with chiral crystal fields and will present the results of this analysis [4].
+
+[1] For example, see J.-i. Kishine, H. Kusunose, and H. M. Yamamoto, Isr. J. Chem. 62, e202200049 (2022), R. Oiwa and H. Kusunose, PRL 129, 116401 (2022).<br>
+[2] S. Hoshino, M.-T. Suzuki, and H. Ikeda, PRL 130, 256801 (2023).
+<br>
+[3] TM, H. Ikeda, M.-T. Suzuki, and S. Hoshino, PRL 134, 226401 (2025).
+<br>
+[4] TM, Y. Kakinuma, M.-T. Suzuki, M. Senami, M. Fukuda, H. Ikeda, and S. Hoshino, in preparation.
+
