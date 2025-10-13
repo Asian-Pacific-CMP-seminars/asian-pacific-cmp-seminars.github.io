@@ -13,6 +13,7 @@ https://docs.google.com/document/d/1WtgDLoIaoAS32dmFT3qDyThqxH-MufJYObCSJ1wFTvs/
 | Tsung-Han Lee |National Chung Cheng University| Ghost Rotationally-Invariant Slave-Boson Approach to Strongly Correlated Materials | Sep 2, 2025 (Tuesday) 11:00-12:00 JST |Chia-Min Chung|
 | Jiabin Yu | University of Florida | Wilson-loop-ideal Bands and General Idealization | Sep 30, 2025 (Tuesday) 11:00-12:00 JST | Zhi-Da Song |
 | Tatsuya Miki |Saitama University| First-principles Calculations of Electron Chirality in Solids | October 14, 2025 (Tuesday) 11:00-12:00 JST | Hiroshi Shinaoka|
+| Manato Fujimoto |University of Tokyo| TBA | October 28, 2025 (Tuesday) 11:00-12:00 JST | Kazuaki Takasan|
 
 # Schedule plan
 
@@ -28,7 +29,7 @@ https://docs.google.com/document/d/1WtgDLoIaoAS32dmFT3qDyThqxH-MufJYObCSJ1wFTvs/
 - October 7: Unavailable — Korean/Chinese/Taiwan holiday
 - October 14: **Tatsuya Miki**
 - October 21: Available
-- October 28: Available
+- October 28: **Manato Fujimoto**
 - November 4: Available
 - November 11: Available
 - November 18: Available
