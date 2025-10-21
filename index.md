@@ -69,6 +69,7 @@ For any inquiries, please contact us through [the admin email address](mailto:ma
 - [Seminar 5: Jiabin Yu, "Wilson-loop-ideal Bands and General Idealization"](#seminar-5)
 - [Seminar 6: Tatsuya Miki, "First-principles Calculations of Electron Chirality in Solids"](#seminar-6)
 - [Seminar 7: Manato Fujimoto, "Four Moiré materials at One Magic Angle in Helical Quadrilayer Graphene"](#seminar-7)
+- [Seminar X: Gil Young Cho, "Most Two-Dimensional Bosonic Topological Orders Forbid Sign-Problem-Free Quantum Monte Carlo Simulation"](#seminar-x)
 
 ### Seminar 1
 * Date: ~~July 15, 2025 (Tuesday) 11:00 JST-12:00 JST~~ July 22, 2025 (Tuesday) 11:00 JST-12:00 JST 
@@ -165,7 +166,7 @@ In this talk, we will present the results of quantitative evaluations of the ele
 
 We introduce helical twisted quadrilayer graphene (HTQG)—four graphene sheets rotated by the same small angle—as a versatile and experimentally accessible platform for correlated topological matter. HTQG consists of three moiré lattices, formed by interference between adjacent graphene layers, that are twisted relative to each other. Lattice relaxation produces four types of large-scale commensurate domains. The domains are characterized by the stacking of the three moiré lattices and come in two types: Type-I “Bernal" stacking and Type-II “rhombohedral" stacking. Domain walls between adjacent stackings often host topologically protected edge states, forming networks at the supermoiré and super-supermoiré scales. Remarkably, all four moiré substructures have narrow bands at the same magic angle θ ≈2.3◦, allowing their correlated phases to be simultaneously targeted in device manufacturing. We argue that the Type-I domains are especially suitable for realizing robust superconductivity which emerges from doping topological insulators, and Chern insulators in C= ±2 bands.
 
-### Seminar TBD
+### Seminar X
 * Date: December 23, 2025 (Tuesday) 11:00 JST-12:00 JST
 * Speaker: Gil Young Cho (Korean Advanced Institute of Science and Technology)
 * Title: Most Two-Dimensional Bosonic Topological Orders Forbid Sign-Problem-Free Quantum Monte Carlo Simulation: Nonpositive Gauss Sum as an Indicator
