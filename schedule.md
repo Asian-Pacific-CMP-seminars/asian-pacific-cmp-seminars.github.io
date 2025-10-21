@@ -14,6 +14,7 @@ https://docs.google.com/document/d/1WtgDLoIaoAS32dmFT3qDyThqxH-MufJYObCSJ1wFTvs/
 | Jiabin Yu | University of Florida | Wilson-loop-ideal Bands and General Idealization | Sep 30, 2025 (Tuesday) 11:00-12:00 JST | Zhi-Da Song |
 | Tatsuya Miki |Saitama University| First-principles Calculations of Electron Chirality in Solids | October 14, 2025 (Tuesday) 11:00-12:00 JST | Hiroshi Shinaoka|
 | Manato Fujimoto |University of Tokyo| TBA | October 28, 2025 (Tuesday) 11:00-12:00 JST | Kazuaki Takasan|
+| Gil Young Cho | Korea Advanced Institute of Science & Technology | Most Two-Dimensional Bosonic Topological Orders Forbid Sign-Problem-Free Quantum Monte Carlo Simulation: Nonpositive Gauss Sum as an Indicator | December 23, 2025 (Tuesday) 11:00-12:00 JST | Yuan Wan
 
 # Schedule plan
 
@@ -34,4 +35,4 @@ https://docs.google.com/document/d/1WtgDLoIaoAS32dmFT3qDyThqxH-MufJYObCSJ1wFTvs/
 - November 11: Available
 - November 18: Available
 - November 25: Available
-
+- December 23: **Gil Young Cho**
