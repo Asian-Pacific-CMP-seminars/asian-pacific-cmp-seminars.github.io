@@ -1,7 +1,7 @@
 # Instructions on how to organize seminars
 
 ## Links
-- Zoom link provided by Koushare: https://us06web.zoom.us/j/89796021532?pwd=1bDpIoUzBbokVVtYiafeu19DDiIPOY.1
+- Zoom link provided by Koushare: https://us06web.zoom.us/j/89057794395?pwd=fknITAoFPkJBG8tm6CBl6b6lXhcqJB.1
 
 - Advertisement slides: https://docs.google.com/presentation/d/1Ctl0GiG-eZQdj0ceTsJ0gZVqp9hetc2WF08U5MS-Y_c/edit?usp=sharing
 The host can make a slideshow while waiting before the talk.
