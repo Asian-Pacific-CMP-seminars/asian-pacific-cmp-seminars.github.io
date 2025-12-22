@@ -69,7 +69,7 @@ For any inquiries, please contact us through [the admin email address](mailto:ma
 - [Seminar 5: Jiabin Yu, "Wilson-loop-ideal Bands and General Idealization"](#seminar-5)
 - [Seminar 6: Tatsuya Miki, "First-principles Calculations of Electron Chirality in Solids"](#seminar-6)
 - [Seminar 7: Manato Fujimoto, "Four Moiré materials at One Magic Angle in Helical Quadrilayer Graphene"](#seminar-7)
-- [Seminar X: Gil Young Cho, "Most Two-Dimensional Bosonic Topological Orders Forbid Sign-Problem-Free Quantum Monte Carlo Simulation"](#seminar-x)
+- [Seminar 8: Gil Young Cho, "Most Two-Dimensional Bosonic Topological Orders Forbid Sign-Problem-Free Quantum Monte Carlo Simulation"](#seminar-x)
 
 ### Seminar 1
 * Date: ~~July 15, 2025 (Tuesday) 11:00 JST-12:00 JST~~ July 22, 2025 (Tuesday) 11:00 JST-12:00 JST 
