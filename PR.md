@@ -10,7 +10,7 @@
 
 - [ ] draft of announcement to mailinglists(For Japan)
 ```
-件名：Asia-Pacific Condensed Matter Physics Seminar 第8回
+件名：Asia-Pacific Condensed Matter Physics Seminar 第8回 (12月23日開催)
 
 領域n メーリングリストの皆様、
 
